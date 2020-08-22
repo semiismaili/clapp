@@ -47,7 +47,7 @@ var lastClap = new Date().getTime();
 
 function detectClap(data) {
   var t = new Date().getTime();
-  if (t - lastClap < 200) return false; // TWEAK HERE
+  if (t - lastClap < 100) return false; // TWEAK HERE
   var zeroCrossings = 0,
     highAmp = 0;
   for (var i = 1; i < data.length; i++) {
