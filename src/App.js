@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import "./App.css";
 import { detectClap, Recording } from "./helper functions/detectClap";
 import Bob from "./components/Bob/Bob";
-import Button from "./components/UI/Button/Button";
 
 const App = () => {
   Recording(function (data) {
@@ -26,7 +25,6 @@ const App = () => {
   return (
     <div className="App">
       <Bob wigglePos={bobWigglePos} />
-      <Button />
     </div>
   );
 };
