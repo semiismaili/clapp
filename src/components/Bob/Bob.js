@@ -2,13 +2,14 @@ import React from "react";
 import classes from "./Bob.module.scss";
 
 const Bob = (props) => {
-  console.log(props.wigglePos);
-  const wigglePos = props.wigglePos;
+  const moveHead = props.moveHead;
+  const crossLegs = props.crossLegs;
+  const color = props.color;
   return (
-    <div className={classes.Bob}>
-      ☻{wigglePos ? " " : ""}/ <br />
+    <div className={classes.Bob} style={{ color: color }}>
+      ☻{moveHead ? " " : ""}/ <br />
       /▌ <br />
-      /\ <br />
+      {crossLegs ? "/ \\ " : "X"} <br />
     </div>
   );
 };
