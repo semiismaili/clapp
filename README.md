@@ -1,5 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## What does it do?
 
 Useless website with no actual purpose, no point to it's existence except to serve goofs and gaffs to it's users, curing them of their suffering, sadness and misery.
