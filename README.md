@@ -6,4 +6,6 @@ Useless website with no actual purpose, no point to it's existence except to ser
 
 Exchange claps for amusing random colors and stick figure dance moves with this total garbage of a [web-app](https://https://clapp-8b624.web.app/) I botched together.
 
+## Had a giggle?
 
+[!["Buy Me A Coffee or something idk"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://ko-fi.com/semiismaili)
