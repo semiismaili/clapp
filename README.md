@@ -8,4 +8,4 @@ Exchange claps for amusing random colors and stick figure dance moves with this 
 
 ## Had a giggle?
 
-[!["Buy Me A Coffee or something idk"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://ko-fi.com/semiismaili)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F07N9MA)
